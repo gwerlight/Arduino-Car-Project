@@ -1,8 +1,8 @@
 #pragma once
 // MotorControl01.h
 
-#ifndef _MOTORCONTROL01_h
-#define _MOTORCONTROL01_h
+#ifndef _MOTORCONTROL_h
+#define _MOTORCONTROL_h
 
 #if defined(ARDUINO) && ARDUINO >= 100
 #include "arduino.h"

@@ -4,7 +4,7 @@ Created:	31.12.2016 08:18:26
 Author:	Christian Daumeter
 */
 
-#include "MotorControl01.h"
+#include "MotorControl.h"
 
 void MotorControl01Class::init()
 {

@@ -8,7 +8,7 @@
 Motor Steuerung  0.2
 
 */
-#include "MotorControl01.h"
+#include "MotorControl.h"
 #include <LiquidCrystal.h>
 #include <Wire.h>
 #include <string.h>

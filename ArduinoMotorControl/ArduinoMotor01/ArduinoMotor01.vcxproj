@@ -77,16 +77,16 @@
     <DebuggerFlavor>VisualMicroDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="ArduinoMotor01.ino">
+    <None Include="ArduinoMotorControl.ino">
       <FileType>CppCode</FileType>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MotorControl01.h" />
+    <ClInclude Include="MotorControl.h" />
     <ClInclude Include="__vm\.ArduinoMotor01.vsarduino.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MotorControl01.cpp" />
+    <ClCompile Include="MotorControl.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
